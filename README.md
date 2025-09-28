@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28.09.2025
+## Register Number:25008715
+## Name:Ragul.R
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,37 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+![alt text](sih.jpg)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+The advisory system will be developed using modern AI/ML frameworks, cloud-based infrastructure, and mobile technologies. Key technologies include:
+
+Frontend: Flutter/React Native for cross-platform mobile apps
+
+Backend: Python (Django/FastAPI), Node.js
+
+AI/ML: TensorFlow, PyTorch for pest/disease detection and predictive analytics
+
+Database: PostgreSQL/MongoDB for storing farmer and crop data
+
+Cloud: AWS/Azure/Google Cloud for scalability
+
+APIs: Integration with government weather and market price APIs
+
+Voice & Language Support: Natural Language Processing (NLP) with multilingual text-to-speech and speech recognition
+The system will follow an iterative development model with pilot testing and farmer feedback for continuous improvement.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+The solution is feasible due to the availability of affordable smartphones and government-supported agri-tech initiatives. Key challenges include digital literacy, language diversity, and connectivity issues in rural areas. These will be addressed through offline functionality, voice-enabled support, and partnerships with local agricultural officers and NGOs. Continuous updates and AI-based personalization will ensure long-term viability.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+The proposed solution will empower small and marginal farmers by providing reliable, data-driven advisory services.
+
+Social Impact: Better decision-making, improved literacy in digital farming.
+
+Economic Impact: Reduced input costs, higher yield, and better income due to market awareness.
+
+Environmental Impact: Optimized fertilizer and pesticide use, contributing to sustainable farming practices.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+www.farmersmartguide.in
